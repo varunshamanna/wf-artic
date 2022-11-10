@@ -10,3 +10,5 @@ dependencies:
     - np-artic =1.3.0=py_11
     - pomoxis =0.3.6
     - numpy
+    - aplanat
+    - pysam
